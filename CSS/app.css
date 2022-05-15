@@ -1,0 +1,34 @@
+body{
+    background-image: url("../images/nhamaythepmariupolreuters.webp");
+    background-size: cover;
+}
+h1{
+    color: red;
+}
+p{
+    color: rgb(119, 36, 36);
+    font-size: 20px;
+    line-height: 1.25;
+    text-align: center;
+    text-transform: none;
+    text-decoration: none;
+    text-indent: 50px;
+    font-weight: 400;
+    font-family: "Arial Black";
+    text-shadow: 0 0 1px red;
+    width: 600px;
+    background-color: bisque;
+}
+b{
+    color: pink;
+}
+p b{
+    color: blueviolet;
+}
+a{
+    color: aquamarine;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+}

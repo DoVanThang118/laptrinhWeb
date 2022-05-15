@@ -1,0 +1,17 @@
+body{
+   background-color: white;
+}
+.flex-center {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+a{
+    color: royalblue;
+}
+p{
+    line-height: 2.5;
+}
